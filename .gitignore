@@ -1,4 +1,8 @@
 ### Python ###
+
+# Ignore datasets
+packages/cnn_model/datasets/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
